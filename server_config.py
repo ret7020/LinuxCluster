@@ -1,0 +1,1 @@
+MHDDOS_GIT = "https://github.com/MatrixTM/MHDDoS"
